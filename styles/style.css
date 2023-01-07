@@ -65,7 +65,8 @@
  }
  li img{
     width: 20px;
-    height: 20px;
+    height: 15px;
+    margin-right: 5px;
  }
  .plan-box{
     margin: 40px 200px;
