@@ -204,10 +204,11 @@ color: #474747;
     font-size: 40px;
 }
 .mail-area{
-    background-color: #151414;
+    background-color: #2b0404;
     color: #F8F8F8;
-    padding: 5px 15px;
+    padding: 8px 19px;
     margin-bottom: 20px;
     border-radius: 5px solid white;
+    font-size:17px ;
 
 }
