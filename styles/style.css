@@ -133,7 +133,7 @@ color: #474747;
 }
 /* gradiant-img-section */
 .gradiant-img{
-    margin: 40px 200px 50px 350px;
+    margin: 40px 200px 50px 360px;
 }
 .gradiant-box{
     background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url('../images/watch.png');
